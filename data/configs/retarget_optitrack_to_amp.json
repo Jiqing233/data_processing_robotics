@@ -1,0 +1,28 @@
+{
+    "source_motion": "../data/NatalieFirstFormOct30.npy",
+    "target_motion_path": "../data/NatalieFirstFormOct30_amp.npy",
+    "source_tpose": "../data/natalie_tpose.npy",
+    "target_tpose": "../data/amp_humanoid_tpose.npy",
+    "joint_mapping": {
+        "Motta_Oct30_Hips": "pelvis",
+        "Motta_Oct30_LeftUpLeg": "left_thigh",
+        "Motta_Oct30_LeftLeg": "left_shin",
+        "Motta_Oct30_LeftFoot": "left_foot",
+        "Motta_Oct30_RightUpLeg": "right_thigh",
+        "Motta_Oct30_RightLeg": "right_shin",
+        "Motta_Oct30_RightFoot": "right_foot",
+        "Motta_Oct30_Spine1": "torso",
+        "Motta_Oct30_Head": "head",
+        "Motta_Oct30_LeftArm": "left_upper_arm",
+        "Motta_Oct30_LeftForeArm": "left_lower_arm",
+        "Motta_Oct30_LeftHand": "left_hand",
+        "Motta_Oct30_RightArm": "right_upper_arm",
+        "Motta_Oct30_RightForeArm": "right_lower_arm",
+        "Motta_Oct30_RightHand": "right_hand"
+    },
+    "rotation": [0.5, 0.5, 0.5, 0.5],
+    "scale": 0.01,
+    "root_height_offset": 0.0,
+    "trim_frame_beg": -1,
+    "trim_frame_end": -1
+}
