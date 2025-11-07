@@ -1,4 +1,3 @@
-# Create a file: list_fbx_joints.py
 import sys
 import os
 import fbx
