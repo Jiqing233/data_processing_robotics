@@ -1,4 +1,4 @@
-# data_processing_robotics
+# Data Preparation for Robotics Simulation
 
 ## What the scripts do:
 1) FBX → NumPy Conversion: convert animation data from .fbx format into .npy arrays for downstream processing or simulation.
