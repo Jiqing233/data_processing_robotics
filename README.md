@@ -17,7 +17,7 @@
 1) Run fbx_check_joint_name.py to check joint names stored in the fbx file.
 2) Run fbx_importer.py to convert data from .fbx to .npy.
 3) Run create_T_pose.py to generate a T-pose, which will be used for retargeting.
-4) Create a config json file, you can check my format, basically it maps joint names, as the same joint could be named differently by different softwares.
-5) Run retarget_motion.py to get the retargeted NumPy data.
+4) Create a config json file. You can check the format in my example. Basically it maps joint names, as the same joint could be named differently by different softwares.
+5) Run retarget_motion.py to get the retargeted NumPy data. In my example, source: NatalieFirstFormOct30.npy, target: amp_humanoid_tpose.npy.
 
 
